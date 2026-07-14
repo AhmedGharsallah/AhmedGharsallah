@@ -20,4 +20,5 @@ Building a company to teach students how to code.
 
 ### 📫 Reach me
 
-- Discord: **ag__09**
+- [![Discord](https://img.shields.io/badge/Discord-ag__09-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1332076132937502743)
+- [![Instagram](https://img.shields.io/badge/Instagram-quite__men-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/quite_men)
